@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+Web Hosting is required to make your website accessible through the internet. There are numerous web hosting companies in the world which provide services pertaining to website hosting, creation, marketing and affiliates.
 
-You can use the [editor on GitHub](https://github.com/jitendravaswani/hosting/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+The current global hosting market size is estimated at around $ 12.3 Billion. To top that, it is poised to grow at the expected rate of 26% over the next 4 years.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+What are the companies which provide the best hosting services? That is a tough question to answer but there are certainly some we can shortlist based on various attributes like quality of service, pricing, support and benefits.
 
-### Markdown
+Our Process For Picking, Evaluating And Also Ranking Webhosting Services And Their Offers Includes:
+[best top web hosting company](http://www.bloggersideas.com/top-web-hosting-services/) to rebuild the pages in your site, from.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Popularity: We have actually examined all the web hosting services frequently made use of by b2evolution powered sites.
 
-```markdown
-Syntax highlighted code block
+Speed& Optimization: For our webhosting reviews, we established exclusive test sites in order to verify the specifications beyond the ads. In many instances we likewise have public hosting examination websites (you’ll locate them in each testimonial), where you can also look for yourself exactly how receptive the host is while checking out a regular modern blog/CMS site.
 
-# Header 1
-## Header 2
-### Header 3
+Dependability & uptime: No host is really 99.99% ideal here. Nevertheless, all hosts rated 4 stars or even more remain in the top performers regarding uptime.
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jitendravaswani/hosting/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Attributes :  Lots of hosts are loaded with features you do not require. In other instances you might need something quite specific or advanced that just a few hosts will certainly offer (SSH gain access to for example). All hosts on this page have the standard functions you anticipate from a modern hosting firm: PHP, Perl, MySQL, control panel and also e-mail, all that by yourself domain, naturally.
